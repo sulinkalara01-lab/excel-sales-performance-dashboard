@@ -34,22 +34,6 @@ Una solución integral de Inteligencia de Negocios desarrollada en Microsoft Exc
 
 ---
 
-## 📷 Capturas de Pantalla
-
-### 1. Vista Principal del Dashboard
-![Dashboard Principal](docs/Dashboard.png)
-
-### 2. Análisis por Categoría y Distribución Geográfica
-![Análisis Regional](docs/Category_Regional.png)
-
-### 3. Rendimiento Individual del Vendedor
-![Rendimiento Vendedor](docs/Vendor_Performance.png)
-
-### 4. Arquitectura Backend de Tablas Dinámicas
-![Tablas Dinamicas](docs/Pivot_Tables.png)
-
----
-
 ## 🚀 Cómo Usarlo
 
 1. Clona o descarga este repositorio.
